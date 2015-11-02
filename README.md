@@ -14,7 +14,7 @@ Features
 
 Usage
 -----
-Run nmp.exe to start the process and launch NMP-Server.
+Run ``nmp.exe`` to start the process and launch NMP-Server.
 
 Lasted version
 --------------
